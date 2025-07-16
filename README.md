@@ -1,36 +1,30 @@
 # Herring Price Regression
 
-Using ML regression models to predict herring price
+Using ML regression models to predict herring prices
 
-This project implements data cleaning, preprocessing and analysis to train & test regression models
-on herring price dataset. The results were submitted to my professor and won 1st place.
-Demonstrates: Data cleaning, handeling outliers, completing missing values, evaluating ML models and feature importance. 
+This project applies data cleaning, preprocessing and analysis to train & test regression models
+on a herring prices dataset. The results were submitted as a class assignment and won 1st place.
+Demonstrates: Data cleaning, handling outliers, filling missing values, evaluating ML models, and analyzing feature importance. 
 
 ## Project Goals
 
-- Explore the different attributes of very active users vs "regular" users
-- Explore the text, narrative and rating data from Yelp reviews
-- Apply text preprocessing and feature extraction (TF-IDF, word embeddings, etc.)
-- Perform clustering to discover groups of similar reviews/users
-- Visualize key findings with graphs and word clouds
+- Properly clean and preprocess the data for training and testing ML models.
+- Predict herring prices using numerical and categorical features, comparing several regression algorithms.
 
 ## Main Tools & Technologies
 
-- Python (pandas, scikit-learn, nltk, matplotlib)
+- Python (pandas, scikit-learn, matplotlib)
 - Jupyter Notebook
 
 ## Results
 
-- Identified main words and patterns for each users group
-- Found "noise" reviews with unique words
-- Clustering revealed high textual diversity and challenge in distinguishing user groups based only on text
-- Presented visualizations to summarize key insights
+- Successfully predicted herring prices with MAE = 8.5
 
 ## Files
 
 - `notebooks/herring_price_ml.ipynb` – Main Jupyter notebook with all analysis steps
 - `data/` – data files
-- `reports/` – Work report
+- `reports/` – Project report
 
 ## How to Run
 
@@ -41,7 +35,7 @@ Demonstrates: Data cleaning, handeling outliers, completing missing values, eval
 
 ## Credits
 
-My Professor, Avshalom 
+Data challenge created by Dr. Avshalom Elmalech (Bar Ilan University).
 
 ---
 
