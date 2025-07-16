@@ -3,7 +3,7 @@
 Using ML regression models to predict herring prices
 
 This project applies data cleaning, preprocessing and analysis to train & test regression models
-on a herring prices dataset. The results were submitted as a class assignment and won 1st place.
+on a herring prices dataset. The results were submitted as a class assignment and **won 1st place**.
 Demonstrates: Data cleaning, handling outliers, filling missing values, evaluating ML models, and analyzing feature importance. 
 
 ## Project Goals
