@@ -33,6 +33,15 @@ Demonstrates: Data cleaning, handling outliers, filling missing values, evaluati
    `pip install -r requirements.txt`
 3. Open `notebooks/herring_price_ml.ipynb` in Jupyter and run all cells
 
+## ⚠️ Data Usage & License
+
+The data files in the `data/` folder were provided by Dr. Avshalom Elmalech (Bar Ilan University) strictly for educational and demonstration purposes as part of an academic assignment.  
+**You may not use, copy, redistribute, or adapt these data files for any commercial or educational purpose without explicit permission from the data owner.**
+
+If you wish to use the dataset outside the context of this assignment, please contact Dr. Elmalech for approval.
+
+The code in this repository is open for learning purposes, but this does **not** apply to the data files.
+
 ## Credits
 
 Data challenge created by Dr. Avshalom Elmalech (Bar Ilan University).
