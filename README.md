@@ -20,6 +20,8 @@ Demonstrates: Data cleaning, handling outliers, filling missing values, evaluati
 
 - Successfully predicted herring prices with MAE = 8.5
 
+<img width="626" height="453" alt="image" src="https://github.com/user-attachments/assets/4975ad00-9a1c-4f13-a305-0303864bab43" />
+
 ## Files
 
 - `notebooks/herring_price_ml.ipynb` – Main Jupyter notebook with all analysis steps
